@@ -1,24 +1,18 @@
-# LeetCode-DSA
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# LeetCode DSA
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0904-fruit-into-baskets](https://github.com/nandiniisahuu/LeetCode-DSA/tree/master/0904-fruit-into-baskets) |
-## Hash Table
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/nandiniisahuu/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0904-fruit-into-baskets](https://github.com/nandiniisahuu/LeetCode-DSA/tree/master/0904-fruit-into-baskets) |
-## Sliding Window
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/nandiniisahuu/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0904-fruit-into-baskets](https://github.com/nandiniisahuu/LeetCode-DSA/tree/master/0904-fruit-into-baskets) |
-## String
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/nandiniisahuu/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
-<!---LeetCode Topics End-->
+A collection of my LeetCode solutions for practicing Data Structures and Algorithms (DSA) and improving problem-solving skills for coding interviews.
+
+## Topics Covered
+
+- Arrays
+- Strings
+- Hash Table
+- Sliding Window
+- Two Pointers
+- Binary Search
+- Linked List
+- Stack & Queue
+- Trees
+- Recursion
+- Dynamic Programming
+- And more...
